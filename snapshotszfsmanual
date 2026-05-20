@@ -1,0 +1,3 @@
+$ zfs list
+$ sudo zfs snapshot zroot/ROOT/default@vóórprinter
+$ zfs list t snapshot 

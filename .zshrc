@@ -1,9 +1,26 @@
 #
+#PPPPPPPP        OOOOOOOO        LLL
+#PPPPPPPPPP    OOOOOOOOOOOO      LLL
+#PPP     PPP  OOOO      OOOO     LLL
+#PPP     PPP  OOOO      OOOO     LLL
+#PPPPPPPPPP   OOOO      OOOO     LLL
+P#PPPPPPP     OOOO      OOOO     LLL
+#PPP          OOOO      OOOO     LLL
+#PPP           OOOOOOOOOOOO      LLLLLLLLL
+#PPP             OOOOOOOO        LLLLLLLLL
+#
+#
+#
+#==============#
+####ALIASSEN####
+#==============#
+#
 alias terug='cd ..'
 alias ls='ls -a'
 #
+#================================================#
 #---------------------TMUX-FNCTIES -----------------
-# ============================================== #m
+# ============================================== #
 tmuxstart() {
     # CASE 1: Functie aangeroepen ZONDER naam
     if [ -z "$1" ]; then
